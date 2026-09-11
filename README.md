@@ -77,7 +77,7 @@ APIs, integrations, automation utilities, and data-driven product foundations.
 ## 🐍 Contribution journey
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zaidumarr/zaidumarr/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/zaidumarr/zaidumarr/gh-pages/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <div align="center">
