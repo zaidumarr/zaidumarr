@@ -28,7 +28,7 @@
 
 ## About me
 
-Based in Bellevue / Seattle. I work across release management, platform delivery, backend systems, and product development—turning complex workflows into simple experiences.
+Based in Seattle, Washington. I work across release management, platform delivery, backend systems, and product development—turning complex workflows into simple experiences.
 
 - 🚀 Release orchestration for iOS, Android, web, APIs, and production systems
 - 🧩 Configuration management, CI/CD, approvals, and deployment governance
