@@ -1,71 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAID%20UMAR&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Release%20Manager%20%7C%20Product%20Builder%20%7C%20Technology%20Strategist&descAlignY=60&descSize=18&color=0:0f172a,50:1d4ed8,100:06b6d4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ZAID%20UMAR&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=BUILDING%20THE%20FUTURE%20ONE%20RELEASE%20AT%20A%20TIME&descAlignY=59&descSize=16&color=0:050816,45:312e81,75:7c3aed,100:06b6d4&animation=fadeIn" width="100%"/>
 
-# Hi, I'm Zaid Umar 👋
-
-### I turn complex technology into reliable, scalable digital products.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Digital+Release+Manager;Product+Builder;Cloud+%26+Platform+Strategist;Turning+complex+systems+into+simple+experiences" />
 
 <p>
-  <a href="https://github.com/zaidumarr"><img src="https://img.shields.io/badge/GitHub-zaidumarr-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zaidumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=zaidumarr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/zaidumarr?style=for-the-badge&color=06b6d4&labelColor=050816&label=FOLLOWERS"/>
 </p>
+
+<a href="https://github.com/zaidumarr"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zaidumar"><img src="https://img.shields.io/badge/LET'S%20CONNECT-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
----
+<h2 align="center">⚡ I make technology move</h2>
 
-## ✦ What I do
+<p align="center">
+I lead digital releases, build scalable products, and connect people, platforms, and data.
+My focus is simple: create reliable systems that look beautiful and work effortlessly.
+</p>
 
-- **Digital release management** for iOS, Android, web, BFF, infrastructure, and production systems
-- **Product and platform delivery** from discovery through launch and continuous improvement
-- **Business systems** that connect teams, data, reporting, and decision-making
-- **Startup building** across directories, CRM, e-commerce, and business automation
+<br/>
 
-## 🚀 Currently building
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it does |
-| --- | --- |
-| 🌎 **WorldFoodFinder** | Discover restaurants, cafes, bakeries, and food businesses around the world |
-| 🧾 **ZEXCRM** | CRM, billing, subscriptions, and customer operations in one workspace |
-| 🏥 **Clinic.us** | Beauty and wellness clinic discovery platform |
-| 🏢 **ServeMaison** | A product studio building practical digital experiences |
+### 🛰️ Mission
 
-## 🧰 Toolbox
+- Enterprise release leadership
+- iOS, Android & web delivery
+- Product strategy and execution
+- CI/CD and production operations
+- Business automation and analytics
 
-<p>
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Current signal
+
+- Building products at ServeMaison
+- Exploring AI-powered workflows
+- Turning ideas into production systems
+- Always improving the developer experience
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🚀 Featured builds</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌎 WorldFoodFinder
+A global discovery platform for restaurants, cafes, bakeries, and food businesses.
+
+<a href="https://github.com/servemaison/worldfoodfinder.com">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 ZEXCRM
+CRM, billing, subscriptions, and customer operations in one workspace.
+
+<a href="https://github.com/zaidumarr/zexcrm">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Clinic.us
+A modern beauty and wellness clinic discovery platform.
+
+<a href="https://github.com/zaidumarr/clinic.us">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 ServeMaison
+A product studio creating useful, scalable digital experiences.
+
+<a href="https://github.com/servemaison">Explore organization →</a>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🧬 Technology constellation</h2>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,prisma,postgres,aws,vercel,git,github,figma&perline=13" />
 </p>
 
-**Delivery:** Release Management · PMP · Scrum · CAB Governance · CI/CD · Production Operations  
-**Platforms:** iOS · Android · Web · APIs · Cloud Infrastructure · Data Systems
+<p align="center">
+<img src="https://img.shields.io/badge/RELEASE%20MANAGEMENT-050816?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PMP-050816?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCRUM-050816?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-050816?style=for-the-badge&logoColor=white"/>
+</p>
 
-## 📈 GitHub activity
+<h2 align="center">📊 The activity layer</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidumarr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=zaidumarr&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaidumarr&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" height="175"/>
+<img src="https://streak-stats.demolab.com?user=zaidumarr&theme=tokyonight&background=050816&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidumarr&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidumarr&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&langs_count=8" />
 </p>
 
-## 🐍 Contribution journey
+<h2 align="center">🐍 Contribution energy</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaidumarr/zaidumarr/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/zaidumarr/zaidumarr/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
-## 🌐 Find me
+<h2 align="center">🌐 Connect</h2>
 
-- Portfolio and projects: [github.com/zaidumarr](https://github.com/zaidumarr)
-- Open to building useful products, improving delivery systems, and collaborating on ambitious ideas
+<p align="center">
+<a href="https://github.com/zaidumarr">GitHub</a> •
+<a href="https://www.linkedin.com/in/zaidumar">LinkedIn</a> •
+<a href="https://github.com/zaidumarr?tab=repositories">Projects</a>
+</p>
 
 <div align="center">
 
-### Thanks for visiting — let's build something meaningful.
+### ✨ Build boldly. Ship reliably. Make it meaningful.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,100:0f172a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:7c3aed,100:050816" width="100%"/>
 
 </div>
