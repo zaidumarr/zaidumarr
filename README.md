@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://github.com/zaidumarr"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zaidumar"><img src="https://img.shields.io/badge/LET'S%20CONNECT-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zaid-u-aa45b8261/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -22,6 +22,17 @@ My focus is simple: create reliable systems that look beautiful and work effortl
 </p>
 
 <br/>
+
+<h2 align="center">📊 The activity layer</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zaidumarr&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" height="175"/>
+<img src="https://streak-stats.demolab.com?user=zaidumarr&theme=tokyonight&background=050816&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee" height="175"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidumarr&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&langs_count=8" />
+</p>
 
 <table align="center">
 <tr>
@@ -103,17 +114,6 @@ A product studio creating useful, scalable digital experiences.
 <img src="https://img.shields.io/badge/CI%2FCD-050816?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 The activity layer</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zaidumarr&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" height="175"/>
-<img src="https://streak-stats.demolab.com?user=zaidumarr&theme=tokyonight&background=050816&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee" height="175"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidumarr&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&langs_count=8" />
-</p>
-
 <h2 align="center">🐍 Contribution energy</h2>
 
 <p align="center">
@@ -124,7 +124,7 @@ A product studio creating useful, scalable digital experiences.
 
 <p align="center">
 <a href="https://github.com/zaidumarr">GitHub</a> •
-<a href="https://www.linkedin.com/in/zaidumar">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/zaid-u-aa45b8261/">LinkedIn</a> •
 <a href="https://github.com/zaidumarr?tab=repositories">Projects</a>
 </p>
 
