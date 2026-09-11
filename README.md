@@ -60,47 +60,6 @@ My focus is simple: create reliable systems that look beautiful and work effortl
 </tr>
 </table>
 
-<h2 align="center">🚀 Featured builds</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🌎 WorldFoodFinder
-A global discovery platform for restaurants, cafes, bakeries, and food businesses.
-
-<a href="https://github.com/servemaison/worldfoodfinder.com">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 ZEXCRM
-CRM, billing, subscriptions, and customer operations in one workspace.
-
-<a href="https://github.com/zaidumarr/zexcrm">View repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Clinic.us
-A modern beauty and wellness clinic discovery platform.
-
-<a href="https://github.com/zaidumarr/clinic.us">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 ServeMaison
-A product studio creating useful, scalable digital experiences.
-
-<a href="https://github.com/servemaison">Explore organization →</a>
-
-</td>
-</tr>
-</table>
-
 <h2 align="center">🧬 Technology constellation</h2>
 
 <p align="center">
