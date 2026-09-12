@@ -6,7 +6,7 @@
 
 <p><strong>Release / Configuration Manager · Product Builder · API Developer</strong></p>
 
-<p>Building reliable releases, automations, and meaningful digital products.</p>
+<p>Developing products from scratch, building 32 web applications, and creating reliable releases and automations.</p>
 
 <a href="https://zaidofficial-31ghgssfo-zaidumar.vercel.app"><img src="https://img.shields.io/badge/ENTER%20MY%20PORTFOLIO-6ae3ff?style=for-the-badge&logo=vercel&logoColor=03161a"/></a>
 <a href="https://www.linkedin.com/in/zaid-u-aa45b8261/"><img src="https://img.shields.io/badge/LINKEDIN-14141b?style=for-the-badge&logo=linkedin&logoColor=6ae3ff"/></a>
