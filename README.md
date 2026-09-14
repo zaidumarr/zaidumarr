@@ -18,7 +18,7 @@
 ## 📊 Contribution activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zaidumarr&show_icons=true&hide_border=true&theme=dark&bg_color=0b0b10&title_color=6ae3ff&icon_color=6ae3ff&text_color=e6e6eb&rank_icon=github" height="175"/>
+<img src="https://github.com/zaidumarr?username=zaidumarr&show_icons=true&hide_border=true&theme=dark&bg_color=0b0b10&title_color=6ae3ff&icon_color=6ae3ff&text_color=e6e6eb&rank_icon=github" height="175"/>
 <img src="https://streak-stats.demolab.com?user=zaidumarr&theme=dark&background=0b0b10&hide_border=true&ring=6ae3ff&fire=6ae3ff&currStreakLabel=6ae3ff" height="175"/>
 </p>
 
