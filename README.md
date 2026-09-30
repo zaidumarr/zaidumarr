@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ZAID%20UMAR&fontSize=58&fontColor=e6e6eb&fontAlignY=38&desc=PORTFOLIO%20%E2%80%A2%20TECH%20%E2%80%A2%20CREATIVE&descAlignY=60&descSize=14&color=0:0b0b10,55:111118,100:122227&animation=fadeIn" width="100%"/>
 
 
-<p><strong>Release / Configuration Manager · Product Builder · API Developer</strong></p>
+<p><strong>Release / Configuration Manager · Product Builder · WEB Developer</strong></p>
 
 <p>Developing products from scratch, building 32 web applications, and creating reliable releases and automations.</p>
 
